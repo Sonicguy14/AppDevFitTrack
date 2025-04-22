@@ -12,3 +12,20 @@ AppDevFitTrack is a modern, full-stack fitness tracking application designed to 
 - Workout session logging
 - Real-time health metrics view
 - Responsive and user-friendly UI
+
+- src/
+├── main/
+│   ├── java/
+│   │   └── com/appdev/fittrack/
+|   |       ├── config/
+│   │       ├── controller/
+│   │       ├── entity/
+│   │       ├── repository/
+│   │       ├── service/
+│   │       └── FitTrackApplication.java
+│   └── resources/
+│       ├── application.properties
+│       └──
+
+
+
